@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "testdeploy-330007",
+  "private_key_id": "69904ea5b45e0b48a64965175cca4408cf47f5f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDTuZUlHoRND3Ag\nfusPIibPZOZpvzdJOBj4vTLSJsKtOkhAX90rKnxmRXVugOHKT2qyyZpJyVf5U5x2\nXjqLuZZ1MtI621ScofR9kd0+Iq8dTadVsmN9n/Ct3KB+BrjGtOKhweIBqt7VtGhb\nB5W46kQ+D961J8O3QOb6rsvq+Fc4HU/2uchMMcvsMUjgnK3uPJVRHaIa/Pr7kkq1\nJI6BgDKquod1hG3LY9ka/BPQZzFqWf3s4XxeEXjt012ayeetpRE8Dv+byq2oJFfc\n22zrzl/oloLeom+7Ki5Tu1/AD+Bs3YZGRcxwn1HzVDtV77ZLK5SG6tbt247D6/lC\ngj2SNLZVAgMBAAECggEADAWLvOWnMHLxyb6QcosHYMZDY6S6Vbt224TD98prSl0L\n+4UV8JytyebOvKgFFLDUB551LBRfx5CM9UGeGbnqG5x3nbo/aydc/lZDwC1Fpn3M\nGbcSeXBqljdNRj/zykCSD7ThCXmIw+HwUkmIzEzs9AiAUOaW8SGhG9cZ+AJYKB+T\ngj5Dz9EHUzWNtksos6P+jqk3CY96YPMTZHaBPbfLGU4TyrDThZVxQG3a4ZsEIhww\nKVu+5GknAWSQUtS5daUCI2a6e73FZ0CqXTi+nPvahscw1goIoQVvy3zp2YHD7Qzv\nNoL4yL5l7hwadvj4HTWWMingJ3dLn9KRk5TGTCrs3wKBgQDutwDm9bxvwoUnFNwj\nF6WTem7h3SbQxoC/HxCl97ppYqwItCf9eGfvzAe9aZW4JGDZPEqwetr3WbVfZJRn\nONTORzXVTztTwGrbccsg3tnDmc7utyz0BOz3vG1+3+Ez3Tyh5f1O1fpXTGZhUmQd\nNjT9X8XTw7KRWzOmztRmLf3SbwKBgQDjDkYRaKeGdKsAlu/6LMEekrGdgPUGHhUc\nToDDbjezlMZJl53wxZO7UN+V8tX8gPdezrR52Xa7jwhx8diEFqs9028rqmQjOPS7\n49OwIe3ScNpXMmUZK3lLwyiXRRYMwu/LRPhVuOEJhdj6fdtlGyErhDJ8ZLtJ/lB1\nhv95yZqVewKBgQCl/HYSIpjOlVGE5UpU1GJ7c8yaHO6aiQyI2I74+JKUKNo6ixqr\ncwfCg/p1yG8kxZbaNsQwhpyvFZ+6HvPZ+nhunrFeC2PTTp5+zFdUGeEN02tCLfiC\nDNLBSDJS4FV1fMZmRMeoA7246hTeYy3d6g1aiTfDkfYegG4f9P1Xt28g3QKBgHgw\nPxDKCBuZOEeYnjEcbaGEXzaTY6A4Xk5ck7ZfambJ8uhTtIwV2eyGk8PpBjKiBc+O\ntWPmo/4GaZ7/OPA6m6yfdjJ0AIvQg2PN5mlOnHgPutP7Xh6jr5JWHO9t540bxxkf\nSiD+O0jyK/f0lSUA5l8FnD/Shn1VfDuqGSPbftNvAoGAZGiE1GJTUDKs1DpqX+xG\nix8PlzLq9XnscOrlkxnPe0EiThRuWaMuSSykgV3oRSL8AijDWkL9HRVpN7ei3J2W\nXxx75EJyKGTpZCHiEHZLjKNAerph5qmaUmE9szU0RB7ISON5ak6MUbHoMwN18kJA\npY5dmBU5Og4MHMo+42aaHIQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sag-vision-api@testdeploy-330007.iam.gserviceaccount.com",
+  "client_id": "114563716829595796433",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sag-vision-api%40testdeploy-330007.iam.gserviceaccount.com"
+}
